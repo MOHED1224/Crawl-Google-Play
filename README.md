@@ -1,5 +1,5 @@
 # Crawl-Google-Play
-This Python script is used for crawling google play.
+Google Play Crawler script using python.
 
 This code is using library play_scraper. You can install it from <a href="https://pypi.org/project/play-scraper/">here</a>
 or you can run <b>pip install play-scraper</b> in the command line
