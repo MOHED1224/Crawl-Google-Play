@@ -10,4 +10,4 @@ This code takes a list of apps names from an Excel file, search google play to f
 Of course you change what details you want to see, since the output is JSON code so it's very easy to deal with it.
 
 
-### I've recently added a new <a href="https://github.com/MOHED1224/Crawl-App-Store">repository</a> for crawling App-Store.
+### <a href="https://github.com/MOHED1224/Crawl-App-Store">Repository</a> for crawling App Store.
